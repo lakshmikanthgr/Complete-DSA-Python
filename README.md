@@ -4,13 +4,12 @@
     Target Audience: AI Engineers
 
 # Python Basics for DSA
-
-    Essential Python Features
-        List Comprehensions
-        Generators and Iterators
-        Lambda Functions and Functional Programming
-    Working with NumPy Arrays for Efficiency
-    Big-O Notation and Time Complexity Analysis
+## Essential Python Features
+1. List Comprehensions
+2. Generators and Iterators
+3. Lambda Functions and Functional Programming
+4. Working with NumPy Arrays for Efficiency
+5. Big-O Notation and Time Complexity Analysis
 
 # Core Data Structures
 
