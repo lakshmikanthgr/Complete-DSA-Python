@@ -1,7 +1,7 @@
 # Introduction
 
-1. Purpose of the Repository is to revisit and revison of the Programing language as I am have started my Journy with IIT Jodhpur for M.tech.
-2. Target Audience: AI Engineers
+Purpose of the Repository is to revisit and revison of the Programing language as I am have started my Journy with IIT Jodhpur for M.tech.
+Target Audience: AI Engineers
 
 # Python Basics for DSA
 ## Essential Python Features
