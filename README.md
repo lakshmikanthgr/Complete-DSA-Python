@@ -13,9 +13,9 @@ Target Audience: AI Engineers
 
 # Core Data Structures
 
-    Arrays and Strings
-        Basic Operations
-        Sliding Window Techniques
+1.Arrays and Strings
+    Basic Operations
+    Sliding Window Techniques
     Linked Lists
         Singly Linked Lists
         Doubly Linked Lists
