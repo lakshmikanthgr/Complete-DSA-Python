@@ -12,27 +12,27 @@ Target Audience: AI Engineers
 5. Big-O Notation and Time Complexity Analysis
 
 # 3. Core Data Structures
-## Arrays and Strings
+## I. Arrays and Strings
 1. Basic Operations
 2. Sliding Window Techniques
-## Linked Lists
+## II. Linked Lists
 1. Singly Linked Lists
 2. Doubly Linked Lists
 3. Circular Linked Lists
-## Stacks and Queues
+## III. Stacks and Queues
 1. Implementation (List and Deque)
 2. Use Cases in AI (e.g., Backtracking, BFS)
-## HashMaps and HashSets
+## IV. HashMaps and HashSets
 1. Collisions and Hashing Techniques
-## Trees
+## V. Trees
 1. Binary Trees and Traversals
 2. Binary Search Trees (BST)
 3. AVL and Red-Black Trees
 4. Trie for NLP Applications
-## Heaps
+## VI. Heaps
 1. Min-Heap and Max-Heap
 2. Priority Queues for AI Tasks
-## Graphs
+## VII. Graphs
 1. Representations: Adjacency List/Matrix
 2. Traversals: DFS, BFS
 3. Shortest Path Algorithms (Dijkstra, A*)
