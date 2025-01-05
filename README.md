@@ -1,9 +1,9 @@
-# Introduction
+# 1. Introduction
 
 Purpose of the Repository is to revisit and revison of the Programing language as I am have started my Journy with IIT Jodhpur for M.tech.
 Target Audience: AI Engineers
 
-# Python Basics for DSA
+# 2. Python Basics for DSA
 ## Essential Python Features
 1. List Comprehensions
 2. Generators and Iterators
@@ -11,11 +11,10 @@ Target Audience: AI Engineers
 4. Working with NumPy Arrays for Efficiency
 5. Big-O Notation and Time Complexity Analysis
 
-# Core Data Structures
+# 3. Core Data Structures
 ## Arrays and Strings
 1. Basic Operations
 2. Sliding Window Techniques
-
 ## Linked Lists
 1. Singly Linked Lists
 2. Doubly Linked Lists
@@ -39,7 +38,7 @@ Target Audience: AI Engineers
 3. Shortest Path Algorithms (Dijkstra, A*)
 4. Connected Components and Cycles
 
-## Advanced Data Structures
+# 4. Advanced Data Structures
 1. Segment Trees (e.g., Range Queries)
 2. Fenwick Trees (e.g., Prefix Sums)
 3. Disjoint Set Union (Union-Find)
@@ -47,60 +46,60 @@ Target Audience: AI Engineers
 5. K-D Trees (for Nearest Neighbor Search)
 6. Suffix Arrays and LCP Arrays
 
-# Algorithms
+# 5. Algorithms
 
-## Sorting Algorithms
+## I. Sorting Algorithms
 1. Merge Sort, Quick Sort
 2. Counting Sort, Radix Sort
-## Searching Algorithms
+## II. Searching Algorithms
 1. Binary Search Variants
 2. Ternary Search
-## Divide and Conquer
+## III. Divide and Conquer
 1. Problem-Solving Techniques
-## Dynamic Programming
+## IV. Dynamic Programming
 1. Classical Problems (Knapsack, Longest Subsequence)
 2. Matrix Chain Multiplication
-## Greedy Algorithms
+## V. Greedy Algorithms
 1. Huffman Encoding
 2. Activity Selection Problem
 
-# Graph Algorithms
+# 6. Graph Algorithms
 
-## Minimum Spanning Tree (Kruskal, Prim)
-## Shortest Path (Dijkstra, Bellman-Ford, Floyd-Warshall)
-## Topological Sorting (Kahn’s Algorithm
-## Network Flow (Ford-Fulkerson, Edmonds-Karp)
-## Graph Neural Networks (GNN) Basics
+### I. Minimum Spanning Tree (Kruskal, Prim)
+### II. Shortest Path (Dijkstra, Bellman-Ford, Floyd-Warshall)
+### III. Topological Sorting (Kahn’s Algorithm
+### IV. Network Flow (Ford-Fulkerson, Edmonds-Karp)
+### V. Graph Neural Networks (GNN) Basics
 
-# Matrix Manipulations
+# 7. Matrix Manipulations
 
-## Matrix Multiplication (Strassen Algorithm)
-## Graph Representations in Matrices
-## Matrix Exponentiation for AI Applications
-## Singular Value Decomposition (SVD)
+### I. Matrix Multiplication (Strassen Algorithm)
+### II. Graph Representations in Matrices
+### III. Matrix Exponentiation for AI Applications
+### IV. Singular Value Decomposition (SVD)
 
-# AI-Specific Use Cases
+# 8. AI-Specific Use Cases
 
-## Graph Traversals for Recommendation Systems
-## Heaps for Priority Sampling in RL
-## Trie for Text Prediction
-## Disjoint Sets for Clustering
-## Dynamic Programming for Sequence Alignment (NLP/Bioinformatics)
-## Matrix Operations for Neural Networks
+### I. Graph Traversals for Recommendation Systems
+### II. Heaps for Priority Sampling in RL
+### III. Trie for Text Prediction
+### IV. Disjoint Sets for Clustering
+### V. Dynamic Programming for Sequence Alignment (NLP/Bioinformatics)
+### VI. Matrix Operations for Neural Networks
 
-# Code Templates and Utilities
+# 9. Code Templates and Utilities
 
-## Reusable Code Snippets
-## Common Patterns in AI Tasks
-## Optimization Tips
+### I. Reusable Code Snippets
+### II. Common Patterns in AI Tasks
+### III. Optimization Tips
 
-# Integration with AI Workflows
+# 10. Integration with AI Workflows
 
-## Preprocessing Pipelines for Data
-## Efficient Memory Usage with Large Models
-## Accelerating Training with Optimized Code
+### I. Preprocessing Pipelines for Data
+### II. Efficient Memory Usage with Large Models
+### III. Accelerating Training with Optimized Code
 
 
-## References and Resources
+# 11. References and Resources
 
     Recommended Books: https://www.amazon.in/Data-Structures-Algorithms-Using-Python/dp/1009276972
